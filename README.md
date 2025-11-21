@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-sawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah sawan" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah.sawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah sawan" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
