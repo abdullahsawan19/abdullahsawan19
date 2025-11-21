@@ -3,11 +3,11 @@
 
 ---
 
-- 🔭 I’m currently working on **graduation project**
+- I’m currently working on **graduation project**
 
-- 👯 I’m looking to collaborate on **open source React projects** or **Node.js back-end APIs**
+- I’m looking to collaborate on **open source React projects** or **Node.js back-end APIs**
 
-- 📫 How to reach me **abdullahsawan19@gmail.com**
+- How to reach me **abdullahsawan19@gmail.com**
 
 ---
 
@@ -39,4 +39,4 @@
 
 ---
 
-<p align="center">✨ Always learning. Always building. ✨</p>
+<p align="center"> Always learning. Always building. </p>
