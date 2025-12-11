@@ -1,5 +1,5 @@
 8<h1 align="center">Hi 👋, I'm <span style="color:#4F8EF7;">Abdullah Sawan</span></h1>
-<h3 align="center">A passionate Full Stack Developer from Egypt</h3>
+<h3 align="center">💻 A passionate Full Stack Developer from Egypt</h3>
 
 ---
 
